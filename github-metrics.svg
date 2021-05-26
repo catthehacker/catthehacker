@@ -1067,19 +1067,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1128,7 +1128,7 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                         </svg>
-                        447 issue comments
+                        450 issue comments
                     </div>
                 </section>
                 <section>
@@ -1534,82 +1534,80 @@
                         <div class="chart-bars">
                             <div class="entry">
                                 <span class="value">
-                                    9
+                                    10
                                 </span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                12
+                                13
                                 <div class="bottom">
                                     May
                                 </div>
                             </div>
                             <div class="entry">
-                                <span class="value">
-                                    10
-                                </span>
-                                <div class="bar" style="height: 18.333333333333332px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                13
-                            </div>
-                            <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 18.333333333333332px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 14
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 18.333333333333332px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 15
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 18.333333333333332px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 16
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 18.333333333333332px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 17
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 18.333333333333332px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 18
                             </div>
                             <div class="entry">
                                 <span class="value">
                                     12
                                 </span>
-                                <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 19
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 20
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 21
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 22
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 23
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 24
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 25
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                26
                             </div>
                         </div>
                     </section>
@@ -1619,19 +1617,14 @@
                         </h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                12
-                                <div class="bottom">
-                                    May
-                                </div>
-                            </div>
-                            <div class="entry">
                                 <span class="value">
                                     +1
                                 </span>
                                 <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 13
+                                <div class="bottom">
+                                    May
+                                </div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -1695,6 +1688,11 @@
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 25
                             </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                26
+                            </div>
                         </div>
                     </section>
                 </div>
@@ -1717,89 +1715,13 @@
                                     <div class="content">
                                         Closed
                                         <span class="issue">
-                                            #9 Ubuntu:full-20.04 - mkdir: Permission denied, cannot create directory `_actions`.
+                                            #705 Issue: &lt;shortly describe issue&gt;
                                         </span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>
-                                        opened by airvzxf in
-                                        <span class="repo">
-                                            catthehacker/docker_images
-                                        </span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">
-                                            #9 Ubuntu:full-20.04 - mkdir: Permission denied, cannot create directory `_actions`.
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>
-                                        opened by airvzxf in
-                                        <span class="repo">
-                                            catthehacker/docker_images
-                                        </span>
-                                    </div>
-                                    <div class="comment">
-                                        Fixed in https://github.com/nektos/act/commit/d794e2fe4ce5d489340838ccdca8e503c2cecbc4
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">
-                                            #700 Switch to `interface{}` instead of `map[string]...`
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>
-                                        opened by catthehacker in
-                                        <span class="repo">
-                                            nektos/act
-                                        </span>
-                                    </div>
-                                    <div class="comment">
-                                        `time="2021-05-24T20:36:23Z" level=debug msg="Error response from daemon: toomanyrequests: You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: docker.com/increase-rate-limit"`
-😞
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">
-                                            #704 Issue: Failure - actions/checkout@v2
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>
-                                        opened by Paultje52 in
+                                        opened by IgorGanapolsky in
                                         <span class="repo">
                                             nektos/act
                                         </span>
@@ -1816,19 +1738,99 @@
                                     <div class="content">
                                         Commented on
                                         <span class="issue">
-                                            #704 Issue: Failure - actions/checkout@v2
+                                            #705 Issue: &lt;shortly describe issue&gt;
                                         </span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>
-                                        opened by Paultje52 in
+                                        opened by IgorGanapolsky in
                                         <span class="repo">
                                             nektos/act
                                         </span>
                                     </div>
                                     <div class="comment">
-                                        Duplicate of #678
+                                        The issue seems to be with your Docker daemon rather than `act`.
+
+https://github.com/moby/moby/issues/32270#issuecomment-340709035
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">
+                                            #3585 collaborate with `nektos/act` for github action running
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>
+                                        opened by georgettica in
+                                        <span class="repo">
+                                            cli/cli
+                                        </span>
+                                    </div>
+                                    <div class="comment">
+                                        Currently it's far from perfect and many things are still incompatible comparing to GitHub Actions, I'd rather not recommend of implementing it in `gh` because of that and because I want to propose (quite a lot of) breaking changes in future but a "pingback" in README or something similar should be just fine so people can discover it 😸. 
+
+bonus thing 👀:
+@jonico is going to present `act` on https://resources.github.com/webcasts/Summerfest-2021-South-Europe/
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">
+                                            #107 command not found (in image node:12.6-buster-slim, as opposed to GH Actions)
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>
+                                        opened by fwilhe in
+                                        <span class="repo">
+                                            nektos/act
+                                        </span>
+                                    </div>
+                                    <div class="comment">
+                                        Sounds possible but haven't got around that yet.
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Reviewed
+                                        <span class="issue">
+                                            #702 fix: avoid race condition by not running exec/start twice
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>
+                                        opened by ZauberNerd in
+                                        <span class="repo">
+                                            nektos/act
+                                        </span>
                                     </div>
                                 </div>
                             </section>
@@ -1962,7 +1964,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="59.7340212829782 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="59.947206248652336 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2444,7 +2446,7 @@
                     These metrics include private contributions, timezone Europe/Berlin
                 </span>
                 <span>
-                    Last updated Tue, 25 May 2021 00:18:21 GMT with lowlighter/metrics@3.7.0
+                    Last updated Wed, 26 May 2021 00:24:10 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
