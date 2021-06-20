@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2055" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2072" class="">
     <defs>
         <style/>
     </defs>
@@ -1067,18 +1067,18 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -1128,7 +1128,7 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                         </svg>
-                        521 issue comments
+                        522 issue comments
                     </div>
                 </section>
                 <section>
@@ -1537,15 +1537,10 @@
                                     12
                                 </span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                6
+                                7
                                 <div class="bottom">
                                     June
                                 </div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                7
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -1609,6 +1604,11 @@
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 19
                             </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                20
+                            </div>
                         </div>
                     </section>
                     <section class="column chart">
@@ -1619,15 +1619,10 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                6
+                                7
                                 <div class="bottom">
                                     June
                                 </div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                7
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -1691,6 +1686,11 @@
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 19
                             </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                20
+                            </div>
                         </div>
                     </section>
                 </div>
@@ -1704,6 +1704,62 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">
+                                            #2951 Investigate reducing the count of apt sources on Hosted Ubuntu images
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>
+                                        opened by maxim-lobanov in
+                                        <span class="repo">
+                                            actions/virtual-environments
+                                        </span>
+                                    </div>
+                                    <div class="comment">
+                                        &gt; the other I suspect (but don't know for sure) is specifically for Ubuntu on Azure (hypervisor stuff and such.
+
+Docker, .NET, PowerShell, MSSQL, etc.
+
+&gt; For a regular Ubuntu user, the other 4 repos are not needed, but a security risk:
+
+There is no such thing as "regular Ubuntu user"
+
+&gt; why is Microsoft forcing users to reference and try-update-fail on PPAs that are non-standard, unneeded and might open additional attack surfaces?
+
+Because there is nothing standard here, GitHub Actions (as per documentation) is a platform that is managed by staff so that users don't have to do it themselves.
+
+&gt; why would I care that the (broken) PPA is "MS official" when I'm using _Ubuntu_ and the PPA is not "Canonical official"?
+
+Because you are using `ubuntu-*` GitHub Actions runner which uses Ubuntu as underlying base, not plain Ubuntu.
+If you want *just Ubuntu*, run your own self-hosted runner.
+
+&gt; * those 2 PPAs: huh, scary. certainly unneeded. "customers" (I guess MS, not original GitHub) should fix their shit instead of the _rest of the userbase_ being forced to accept the security risks of some random PPA. this is reversing incentives.
+&gt; 
+&gt; It's a pity that GitHub was bought by MS. Now we all have to pay a price because "MS customers" can't get their CI/CD pipelines right (as in, not depend on random external PPAs or even use PHP in the first place;)
+
+Why is it my responsibility to add Microsoft repository and not your responsibility to remove it during a workflow?
+Maybe _you_ should fix your "shit"?
+
+&gt; anyways, IMO closing this issue (without a follow up one) is the wrong action - it will only get worse. at the very least, GitHub users should be warned in the docs that they do _not_ get a plain vanilla Ubuntu experience / security profile. but again, thanks @maxim-lobanov fpr your heroic efforts and progress!
+
+Maybe you will understand if I use Linux people language: RTFM!
+https://docs.github.com/en/actions/using-github-hosted-runners/about-github-hosted-runners#preinstalled-software
+
+
+I'm sure that there are more people who are happy when most of their stuff works out of the box thanks to the tools pre-installed in GHA runners than there are people who bitch about it.
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1810,32 +1866,6 @@ cat [7.1.3] ~/../../../../act git: upstream ≣ +1 ~0 -0 !
 Error: unable to determine if image already exists for image "catthehacker/ubuntu:act-latest" (): Error response from daemon: Bad response from Docker engine
 exit status 1
 ```
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">
-                                            #1 What privillege need for secrets.PAT and secrets.GITHUB_TOKEN in metrics.yml?
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>
-                                        opened by patsevanton in
-                                        <span class="repo">
-                                            catthehacker/catthehacker
-                                        </span>
-                                    </div>
-                                    <div class="comment">
-                                        https://github.com/lowlighter/metrics#1-create-a-github-personal-token
                                     </div>
                                 </div>
                             </section>
@@ -1969,7 +1999,7 @@ exit status 1
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="65.04162893209349 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="65.25405953101217 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2451,7 +2481,7 @@ exit status 1
                     These metrics include private contributions, timezone Europe/Berlin
                 </span>
                 <span>
-                    Last updated Sat, 19 Jun 2021 00:15:07 GMT with lowlighter/metrics@3.7.0
+                    Last updated Sun, 20 Jun 2021 00:15:15 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
